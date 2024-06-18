@@ -1,0 +1,68 @@
+body {
+
+    background-attachment: fixed;
+    background-color: rgb(121, 124, 123);
+}
+
+.container {
+
+    background-color: rgb(58, 63, 68);
+    border-radius: 10px;
+}
+
+.pacote {
+
+    text-align: center;
+}
+
+
+img {
+    max-height: 600px;
+}
+
+
+.carousel-item {
+
+    
+   
+    max-height: 100%;
+    
+}
+
+.pacote img {
+    max-width: 100%;
+    margin-top: 20px;
+    border: 2px solid ; 
+    }
+
+.pacote img:hover {
+    transform: rotate(ideg);
+    border: 2px solid #000 ;
+    
+    }
+a.link-pacote {
+color: #000;
+text-decoration: none;
+font-weight: bold;
+text-align: center;
+
+}
+
+a.link-pacote:hover {
+    color: red;
+}
+
+footer {
+margin: 15px;
+bottom: 0px;
+width: 100%;
+text-align: center;
+line-height: 100px;
+background-color: #000; 
+color: aliceblue;
+font-size: 28px;
+
+}
+
+
+
